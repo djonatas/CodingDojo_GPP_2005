@@ -1,0 +1,24 @@
+{
+  "name": "codingdojo_gpp_2005",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "debug": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djonatas/CodingDojo_GPP_2005.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djonatas/CodingDojo_GPP_2005/issues"
+  },
+  "homepage": "https://github.com/djonatas/CodingDojo_GPP_2005#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
